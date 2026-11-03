@@ -7,7 +7,7 @@
 A simple, free desktop tool that converts PDF files into JPG images, **one image per page**.
 Drop in one PDF or up to **50 at once**, pick a quality, and click **Convert**.
 
-![BatchPDF2JPG screenshot](/pdf2jpg_tool/pdf2jpg_tool/docs/screenshot.png.png)
+![BatchPDF2JPG screenshot](/docs/screenshot.png.png)
 
 ## Download
 
