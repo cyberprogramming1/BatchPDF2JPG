@@ -1,0 +1,12 @@
+# Poppler binaries are GPL-licensed: download them, don't commit them (see README)
+poppler/*
+!poppler/PUT_POPPLER_HERE.txt
+
+# Python / build output
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
+dist/
+*.log
